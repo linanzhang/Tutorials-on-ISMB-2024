@@ -1,9 +1,10 @@
-# Tutorial VT4: Computational Approaches for Identifying Context-Specific Transcription Factors using Single-Cell Multi-Omics Datasets (ISMB2024)
+# Tutorial: Computational Approaches for Identifying Context-Specific Transcription Factors using Single-Cell Multi-Omics Datasets (ISMB2024)
 
 ## Table of Contents
 
 <!-- vscode-markdown-toc -->
-- [Tutorial VT4: Computational Approaches for Identifying Context-Specific Transcription Factors using Single-Cell Multi-Omics Datasets (ISMB2024)](#tutorial-vt4-computational-approaches-for-identifying-context-specific-transcription-factors-using-single-cell-multi-omics-datasets-ismb2024)
+
+- [Tutorial: Computational Approaches for Identifying Context-Specific Transcription Factors using Single-Cell Multi-Omics Datasets (ISMB2024)](#tutorial-computational-approaches-for-identifying-context-specific-transcription-factors-using-single-cell-multi-omics-datasets-ismb2024)
   - [Table of Contents](#table-of-contents)
   - [Introduction](#introduction)
   - [Learning Objectives for Tutorial](#learning-objectives-for-tutorial)
