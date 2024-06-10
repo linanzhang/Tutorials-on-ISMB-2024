@@ -1,18 +1,16 @@
-# Tutorial: Computational Approaches for Identifying Context-Specific Transcription Factors using Single-Cell Multi-Omics Datasets (ISMB 2024)
+# Tutorial: Computational Approaches for Identifying Context-Specific Transcription Factors using Single-Cell Multi-Omics Datasets (ISMB 2024)<!-- omit in toc -->
 
-## Table of Contents
+## Table of Contents<!-- omit in toc -->
 
-- [Tutorial: Computational Approaches for Identifying Context-Specific Transcription Factors using Single-Cell Multi-Omics Datasets (ISMB 2024)](#tutorial-computational-approaches-for-identifying-context-specific-transcription-factors-using-single-cell-multi-omics-datasets-ismb-2024)
-  - [Table of Contents](#table-of-contents)
-  - [Introduction](#introduction)
-  - [Learning Objectives for Tutorial](#learning-objectives-for-tutorial)
-  - [Intended Audience and Level](#intended-audience-and-level)
-  - [Environment Set up](#environment-set-up)
-  - [Schedule](#schedule)
-  - [Hands-on Tutorial](#hands-on-tutorial)
-    - [Session 1 :  Hands-on experience in applying tools and interpreting results using multiple TF activity inference methods using public scRNA-seq](#session-1---hands-on-experience-in-applying-tools-and-interpreting-results-using-multiple-tf-activity-inference-methods-using-public-scrna-seq)
-    - [Session 2: Hands-on experience in applying tools and interpreting results using multiple TF activity inference methods using public scATAC-seq and multiome](#session-2-hands-on-experience-in-applying-tools-and-interpreting-results-using-multiple-tf-activity-inference-methods-using-public-scatac-seq-and-multiome)
-    - [Session 3: Hands-on experience in applying tools and interpreting results using TF activity inference methods using public CITE-seq](#session-3-hands-on-experience-in-applying-tools-and-interpreting-results-using-tf-activity-inference-methods-using-public-cite-seq)
+- [Introduction](#introduction)
+- [Learning Objectives for Tutorial](#learning-objectives-for-tutorial)
+- [Intended Audience and Level](#intended-audience-and-level)
+- [Environment Set up](#environment-set-up)
+- [Schedule](#schedule)
+- [Hands-on Tutorial](#hands-on-tutorial)
+  - [Session 1 :  Hands-on experience in applying tools and interpreting results using multiple TF activity inference methods using public scRNA-seq](#session-1---hands-on-experience-in-applying-tools-and-interpreting-results-using-multiple-tf-activity-inference-methods-using-public-scrna-seq)
+  - [Session 2: Hands-on experience in applying tools and interpreting results using multiple TF activity inference methods using public scATAC-seq and multiome](#session-2-hands-on-experience-in-applying-tools-and-interpreting-results-using-multiple-tf-activity-inference-methods-using-public-scatac-seq-and-multiome)
+  - [Session 3: Hands-on experience in applying tools and interpreting results using TF activity inference methods using public CITE-seq](#session-3-hands-on-experience-in-applying-tools-and-interpreting-results-using-tf-activity-inference-methods-using-public-cite-seq)
 
 
 
