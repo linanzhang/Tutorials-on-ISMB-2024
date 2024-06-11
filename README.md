@@ -8,9 +8,9 @@
 - [Environment Set up](#environment-set-up)
 - [Schedule](#schedule)
 - [Hands-on Tutorial](#hands-on-tutorial)
-  - [Session 1 :  Hands-on experience in applying tools and interpreting results using multiple TF activity inference methods using public scRNA-seq](#session-1---hands-on-experience-in-applying-tools-and-interpreting-results-using-multiple-tf-activity-inference-methods-using-public-scrna-seq)
-  - [Session 2: Hands-on experience in applying tools and interpreting results using multiple TF activity inference methods using public scATAC-seq and multiome](#session-2-hands-on-experience-in-applying-tools-and-interpreting-results-using-multiple-tf-activity-inference-methods-using-public-scatac-seq-and-multiome)
-  - [Session 3: Hands-on experience in applying tools and interpreting results using TF activity inference methods using public CITE-seq](#session-3-hands-on-experience-in-applying-tools-and-interpreting-results-using-tf-activity-inference-methods-using-public-cite-seq)
+    - [Session 1 :  Hands-on experience in applying tools and interpreting results using multiple TF activity inference methods using public scRNA-seq](#session-1---hands-on-experience-in-applying-tools-and-interpreting-results-using-multiple-tf-activity-inference-methods-using-public-scrna-seq)
+    - [Session 2: Hands-on experience in applying tools and interpreting results using multiple TF activity inference methods using public scATAC-seq and multiome](#session-2-hands-on-experience-in-applying-tools-and-interpreting-results-using-multiple-tf-activity-inference-methods-using-public-scatac-seq-and-multiome)
+    - [Session 3: Hands-on experience in applying tools and interpreting results using TF activity inference methods using public CITE-seq](#session-3-hands-on-experience-in-applying-tools-and-interpreting-results-using-tf-activity-inference-methods-using-public-cite-seq)
 
 
 
@@ -51,14 +51,14 @@ Time  | Tutorial
 `17:55` |Discuss current bottlenecks, gaps in the field, and opportunities for future work <br />Hatice
 
 ##  <a name='Hands-onTutorial'></a>Hands-on Tutorial
-###   <a name='Session1:Hands-onexperienceinapplyingtoolsandinterpretingresultsusingmultipleTFactivityinferencemethodsusingpublicscRNA-seq'></a>Session 1 :  Hands-on experience in applying tools and interpreting results using multiple TF activity inference methods using public scRNA-seq
+####   <a name='Session1:Hands-onexperienceinapplyingtoolsandinterpretingresultsusingmultipleTFactivityinferencemethodsusingpublicscRNA-seq'></a>Session 1 :  Hands-on experience in applying tools and interpreting results using multiple TF activity inference methods using public scRNA-seq
 
 
-###   <a name='Session2:Hands-onexperienceinapplyingtoolsandinterpretingresultsusingmultipleTFactivityinferencemethodsusingpublicscATAC-seqandmultiome'></a>Session 2: Hands-on experience in applying tools and interpreting results using multiple TF activity inference methods using public scATAC-seq and multiome
+####   <a name='Session2:Hands-onexperienceinapplyingtoolsandinterpretingresultsusingmultipleTFactivityinferencemethodsusingpublicscATAC-seqandmultiome'></a>Session 2: Hands-on experience in applying tools and interpreting results using multiple TF activity inference methods using public scATAC-seq and multiome
 
   
 
-###   <a name='Session3:Hands-onexperienceinapplyingtoolsandinterpretingresultsusingTFactivityinferencemethodsusingpublicCITE-seq'></a>Session 3: Hands-on experience in applying tools and interpreting results using TF activity inference methods using public CITE-seq
+####   <a name='Session3:Hands-onexperienceinapplyingtoolsandinterpretingresultsusingTFactivityinferencemethodsusingpublicCITE-seq'></a>Session 3: Hands-on experience in applying tools and interpreting results using TF activity inference methods using public CITE-seq
 
 
 
