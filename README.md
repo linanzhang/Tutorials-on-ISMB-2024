@@ -42,7 +42,7 @@ Tuesday, July 9, 2024 14:00 – 18:00 EDT
 Time  | Tutorial
 -------|-------------------
 `14:00` | Welcome remarks and tutorial overview  <br /> Hatice 
-`14:05` | Basic principles behind TF activity inference methods <br> &nbsp;  &nbsp; * Overview of the importance of context-specific TF regulation in biological systems. <br> &nbsp;  &nbsp;* Significance of TF dynamics in health and disease.<br> &nbsp;  &nbsp;* Single-cell multi-omics technologies for TF activity inference (scRNA-seq, scATAC-seq, Multiome<br /> Hatice
+`14:05` | Basic principles behind TF activity inference methods <br>  &nbsp; &nbsp; &nbsp;  * Overview of the importance of context-specific TF regulation in biological systems. <br> &nbsp;  &nbsp; &nbsp;  * Significance of TF dynamics in health and disease.<br> &nbsp;  &nbsp; &nbsp; * Single-cell multi-omics technologies for TF activity inference (scRNA-seq, scATAC-seq, Multiome<br /> Hatice
 `14:45` | Overview of computational TF inference methods based on single cell omics <br /> Merve
 `15:45` | Break
 `16:00` | Hands-on experience in applying tools and interpreting results using multiple TF activity inference methods using public scRNA-seq <br />Linan and Merve
