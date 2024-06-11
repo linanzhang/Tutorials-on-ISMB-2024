@@ -52,20 +52,14 @@ Time  | Tutorial
 
 ##  <a name='Hands-onTutorial'></a>Hands-on Tutorial
 ###   <a name='Session1:Hands-onexperienceinapplyingtoolsandinterpretingresultsusingmultipleTFactivityinferencemethodsusingpublicscRNA-seq'></a>Session 1 :  Hands-on experience in applying tools and interpreting results using multiple TF activity inference methods using public scRNA-seq
-* 1.1:  XXXXXXX (Linan)
 
-* 1.2:  XXXXXXX (Merve)
 
 ###   <a name='Session2:Hands-onexperienceinapplyingtoolsandinterpretingresultsusingmultipleTFactivityinferencemethodsusingpublicscATAC-seqandmultiome'></a>Session 2: Hands-on experience in applying tools and interpreting results using multiple TF activity inference methods using public scATAC-seq and multiome
-* 2.1:  XXXXXXX (Parham)
 
-* 2.2:  XXXXXXX (Merve)
   
 
 ###   <a name='Session3:Hands-onexperienceinapplyingtoolsandinterpretingresultsusingTFactivityinferencemethodsusingpublicCITE-seq'></a>Session 3: Hands-on experience in applying tools and interpreting results using TF activity inference methods using public CITE-seq
-* 3.1:  XXXXXXX (Parham)
 
-* 3.2:  XXXXXXX (Hatice)
 
 
 
