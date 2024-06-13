@@ -5,8 +5,11 @@
 - [Introduction](#introduction)
 - [Learning Objectives for Tutorial](#learning-objectives-for-tutorial)
 - [Intended Audience and Level](#intended-audience-and-level)
-- [Environment Set up](#environment-set-up)
 - [Schedule](#schedule)
+- [Environment Set up](#environment-set-up)
+  - [Installation of Conda](#installation-of-conda)
+  - [Managing Environment](#managing-environment)
+  - [Installing Python Packages](#installing-python-packages)
 - [Hands-on Tutorial](#hands-on-tutorial)
     - [Session 1 :  Hands-on experience in applying tools and interpreting results using multiple TF activity inference methods using public scRNA-seq](#session-1---hands-on-experience-in-applying-tools-and-interpreting-results-using-multiple-tf-activity-inference-methods-using-public-scrna-seq)
     - [Session 2: Hands-on experience in applying tools and interpreting results using multiple TF activity inference methods using public scATAC-seq and multiome](#session-2-hands-on-experience-in-applying-tools-and-interpreting-results-using-multiple-tf-activity-inference-methods-using-public-scatac-seq-and-multiome)
@@ -34,8 +37,6 @@ To facilitate the learning process, participants will be provided with pre-proce
 
 The tutorial will employ publicly accessible data, with examples showcased using datasets that will be made available through repositories such as the Gene Expression Omnibus or similar public platforms. This hands-on workshop aims to equip participants with practical skills and knowledge, enabling them to navigate and analyze complex datasets in the field of single-cell omics.
 
-##  <a name='EnvironmentSetup'></a>Environment Set up
-We use Jupyter Python notebook in google Colab for running our tutorial. The instruction for Python packages installation are showed at the beginning of each tutorial notebook 
 
 ##  <a name='Schedule'></a>Schedule
 Tuesday, July 9, 2024 14:00 – 18:00 EDT
@@ -49,6 +50,65 @@ Time  | Tutorial
 `16:45` | Hands-on experience in applying tools and interpreting results using multiple TF activity inference methods using public scATAC-seq and multiome <br />Parham and Merve
 `17:30` | Hands-on experience in applying tools and interpreting results using TF activity inference methods using public CITE-seq <br />Parham and Hatice
 `17:55` |Discuss current bottlenecks, gaps in the field, and opportunities for future work <br />Hatice
+
+
+
+##  <a name='EnvironmentSetup'></a>Environment Set up
+### Installation of Conda
+
+1. [Download the installer by choosing the proper installer for your machine.](https://www.anaconda.com/download/)
+2. [Verify your installer hashes using SHA-256 checksums.](https://docs.conda.io/projects/conda/en/latest/user-guide/install/index.html#hash-verification)
+3. Install the installer:
+	- Windows: Double-click the `.exe` file. Follow the instructions on the screen. For a detailed reference, please read [this page](https://docs.conda.io/projects/conda/en/latest/user-guide/install/windows.html#installing-on-windows).
+	- macOS: double-click the `.pkg` file. Follow the instructions on the screen.For a detailed reference, please read [this page](https://docs.conda.io/projects/conda/en/latest/user-guide/install/macos.html#installing-on-macos).
+	- Linux: In your terminal window, run: `bash Anaconda-latest-Linux-x86_64.sh`. Follow the prompts on the inConda is an open-source tool that provides package, dependency, and environment management for any programming language. To install conda, we must first pick the right installer for us. Below we will demonstrate how to install **Anaconda Distribution**, a full featured installer of Conda.
+staller screens. For a detailed reference, please read [this page](https://docs.conda.io/projects/conda/en/latest/user-guide/install/linux.html#installing-on-linux).
+
+
+### Managing Environment
+
+With conda, you can create, export, list, and update environments that have different versions of Python and/or packages installed in them. The JupyterLab, which can run in conda environment,  is a web application for computational documents so that our code can produce rich, interactive output.
+
+
+Below we will demonstrate how to create an conda environment and install JupterLab for this tutorial on macOS/Linux. Use the **terminal** for the following steps. For a detailed reference, please read [this page](https://docs.conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html).
+
+Use Mac **terminal** for the following steps:
+
+1. Create an environment with the latest version of python 3: 
+   
+   `conda create --name <my-env> python=3`. Replace `<my-env>` with the name of your environment.
+2. Activate the environment you just created: 
+   
+   `·conda activate <my-env>`
+3. Install JupyterLab: 
+   
+    `pip install jupyterlab`
+4. Run JupyterLab: 
+   
+   `jupyter lab` 
+
+### Installing Python Packages
+
+Please download the requirements.txt and use the following commands to install python packages required for running the tutorials
+
+  `pip install -r requirements.txt`
+
+Besides the packages listed in requirements.txt,  a few additional packages are required for each session. Please follow the steps below to install packages needed for your session of interest
+
+Session 1: 
+We will compare STAN with decoupler.
+
+`pip install decoupler`
+
+Session 2:
+
+Session 3:
+We will run our own pySPaRTAN package.
+
+`pip install pySPaRTAN`
+
+
+
 
 ##  <a name='Hands-onTutorial'></a>Hands-on Tutorial
 ####   <a name='Session1:Hands-onexperienceinapplyingtoolsandinterpretingresultsusingmultipleTFactivityinferencemethodsusingpublicscRNA-seq'></a>Session 1 :  Hands-on experience in applying tools and interpreting results using multiple TF activity inference methods using public scRNA-seq
